@@ -1,19 +1,19 @@
 # depslib dependency file v1.0
-1772905228 source:/home/julio123/Documentos/Projetos/CaixaMe/caixa.c
+1773183863 source:/home/julio123/Documentos/Projetos/CaixaMe/caixa.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<stdbool.h>
 	"header.h"
 
-1772911897 source:/home/julio123/Documentos/Projetos/CaixaMe/main.c
+1773183863 source:/home/julio123/Documentos/Projetos/CaixaMe/main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<stdbool.h>
 	"header.h"
 
-1772911922 source:/home/julio123/Documentos/Projetos/CaixaMe/interface.c
+1773187718 source:/home/julio123/Documentos/Projetos/CaixaMe/interface.c
 	<stdio.h>
 	<stdbool.h>
 	<stdlib.h>
@@ -21,9 +21,9 @@
 
 1772744953 /home/julio123/Documentos/Projetos/CaixaMe/interface.h
 
-1772912221 /home/julio123/Documentos/Projetos/CaixaMe/header.h
+1773187718 /home/julio123/Documentos/Projetos/CaixaMe/header.h
 
-1772906430 source:/home/julio123/Documentos/Projetos/CaixaMe/estoque.c
+1773187786 source:/home/julio123/Documentos/Projetos/CaixaMe/estoque.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
