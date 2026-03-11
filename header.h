@@ -13,4 +13,7 @@ void tituloe();
 extern int fechare;
 void opc();
 void opce();
+void addpt();
+void removepr();
+void listarpr();
 #endif

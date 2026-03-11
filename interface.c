@@ -76,14 +76,38 @@ printf("0 - Fechar caixa\n");
 void opce() {
 printf("1 - Cadastrar produto\n");
 printf("2 - Remover produto\n");
-printf("3 - Atualizar quantidade\n");
-printf("4 - Listar produtos\n");
-printf("5 - Consultar produto\n");
-printf("6 - Produtos com estoque baixo\n");
-printf("7 - Entrada de mercadoria\n");
-printf("8 - Saida de mercadoria\n");
-printf("9 - Relatorio de estoque\n");
+printf("3 - Listar produtos\n");
+printf("4 - Consultar produto\n");
+printf("5 - Produtos com estoque baixo\n");
+printf("6 - Entrada de mercadoria\n");
+printf("7 - Saida de mercadoria\n");
+printf("8 - Relatorio de estoque\n");
 
 printf("0 - Voltar ao menu principal\n");
 }
+
+void addpt(){
+   printf("\n");
+    printf("########################\n");
+    printf("#                      #\n");
+    printf("#       Adicionar      #\n");
+    printf("#       Produto        #\n");
+    printf("#                      #\n");
+    printf("########################\n\n");
+}
+
+void removepr(){
+ printf("\n");
+    printf("########################\n");
+    printf("#    REMOVER PRODUTO    #\n");
+    printf("########################\n\n");
+}
+
+void listarpr() {
+    printf("\n");
+    printf("########################\n");
+    printf("#      LISTAR PRODUTO  #\n");
+    printf("########################\n\n");
+}
+
 
